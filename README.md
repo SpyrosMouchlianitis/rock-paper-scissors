@@ -8,11 +8,11 @@ How to play:
  Rock > Scissors
  Rock = Rock
  Rock < Paper
- 
+ .
  Paper > Rock
  Paper = Paper
  Paper < Scissors
- 
+ .
  Scissors > Paper
  Scissors = Scissors
  Scissors < Rock
